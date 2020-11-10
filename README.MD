@@ -1,6 +1,7 @@
 #Scala on Cloud Function
 
 ##How to use
+
 ###Http-trigger 
 1. clone the project
 2. use command ``mvn function:run -Drun.functionTarget=function.http.HelloWorld``
